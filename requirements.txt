@@ -1,0 +1,15 @@
+jupyter
+matplotlib
+mypy
+networkx
+numpy
+pygraphviz
+scipy
+sklearn
+statsmodels
+seaborn
+patsy
+pydot
+pytest
+pytest-cov
+xlrd
