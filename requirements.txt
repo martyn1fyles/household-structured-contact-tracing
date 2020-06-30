@@ -3,13 +3,14 @@ matplotlib
 mypy
 networkx
 numpy
-pygraphviz
 scipy
 sklearn
 statsmodels
 seaborn
+pandas
 patsy
 pydot
 pytest
 pytest-cov
+pygraphviz
 xlrd
